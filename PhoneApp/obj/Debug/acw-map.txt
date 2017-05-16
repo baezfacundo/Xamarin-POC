@@ -1,0 +1,4 @@
+PhoneApp.MainActivity, PhoneApp;md50be6ff27d45403de336a675ec246de22.MainActivity
+PhoneApp.MainActivity, PhoneApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50be6ff27d45403de336a675ec246de22.MainActivity
+PhoneApp.MainActivity;md50be6ff27d45403de336a675ec246de22.MainActivity
+phoneapp.MainActivity;md50be6ff27d45403de336a675ec246de22.MainActivity
