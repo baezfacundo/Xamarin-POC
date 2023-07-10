@@ -1,2 +1,2 @@
-# xamarin_NumberConverter
-It's a simple app for android using xamarin which convert any phone number (with number and letters) to number in ordert to be able to call it.
+# Xamarin Number Converter
+It's a simple app for Android using Xamarin which converts any phone number (with numbers and letters) to a number in order to be able to call it.
